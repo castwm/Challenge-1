@@ -1,3 +1,6 @@
+Application URL: https://castwm.github.io/challenge-1/
+Github URL: https://github.com/castwm/challenge-1
+
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Challenges in This Course
